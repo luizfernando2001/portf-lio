@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "parte1";
+    src: url(public/bootstrap/fonts/PaybAck.ttf);
+}
+
+.lu {
+    border-style: double;
+    border-color: rgb(0, 195, 255);
+}
+
+.te {
+    color: rgb(0, 195, 255);
+    font-family: "parte1"
+}
+
+.OO {
+    border-style: double;
+    border-color: rgb(0, 0, 0);
+}
+
+.HH {
+    list-style: none;
+}
+
+body {
+    background-image: url(public/bootstrap/img/tijolos.jpg);
+}
+
+.li {
+    color: deepskyblue;
+}

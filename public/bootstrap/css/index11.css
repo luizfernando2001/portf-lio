@@ -1,0 +1,18 @@
+.fundo {
+    background-image: url(../../bootstrap/img/texele.jpg);
+}
+
+.topo {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.726);
+    width: 1140px
+}
+
+a {
+    color: rgb(0, 4, 248);
+    background-color: rgba(40, 122, 204, 0.288);
+    border-style: double;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}

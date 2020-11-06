@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "parte1";
+    src: url(public/bootstrap/fonts/PaybAck.ttf);
+}
+
+.lu {
+    border-style: double;
+    border-color: rgb(0, 195, 255);
+    background-image: url(../../public/bootstrap/img/texele.jpg);
+}
+
+.te {
+    color: rgb(0, 195, 255);
+    font-family: "parte1"
+}
+
+.la {
+    list-style: none;
+}
+
+.luio {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    background-color: red;
+}
+
+.fundo {
+    background-image: url(../../img/tijolos.jpg);
+}
+
+.edvan {
+    background-image: url(../../img/texele.jpg);
+}
+
+.noBackground {
+    background-color: transparent;
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+}
+
+.ee {
+    border-style: double;
+    border-color: rgb(0, 195, 255);
+    background-color: rgba(63, 213, 218, 0.24);
+}
+
+.pp {
+    color: rgb(63, 212, 218);
+}

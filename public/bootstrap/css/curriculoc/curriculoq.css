@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "parte1";
+    src: url(../../public/bootstrap/fonts/Aero.ttf);
+}
+
+.luiz2 {
+    background-image: url(../../img/texele.jpg);
+    border-style: double;
+    border-color: rgb(0, 195, 255);
+}
+
+.imagemfundo {
+    background-image: url(../../img/texturabranca.jpg)
+}
+
+.luu {
+    font-family: "parte1";
+    color: darkblue;
+}
+
+.ee {
+    border-style: double;
+    border-color: rgb(0, 195, 255);
+    background-color: rgba(255, 255, 255, 0.466);
+}
+
+.noBackground {
+    background-color: transparent;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(0, 238, 255);
+    text-shadow: black 3px 3px 3px;
+}
+
+.luiz {
+    height: 400px;
+    overflow: auto;
+    background-color: white;
+}
+
+.luio {
+    background-color: rgb(255, 255, 255);
+    border-style: double;
+    border-color: rgb(0, 195, 255);
+}
+
+.luu {
+    color: blue;
+}
+
+.pp {
+    color: rgb(255, 166, 0);
+    text-shadow: black 3px 3px 3px;
+}
